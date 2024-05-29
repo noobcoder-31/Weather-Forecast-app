@@ -1,3 +1,16 @@
+# Screenshots
+
+Landing Page :
+
+![image](https://github.com/noobcoder-31/Weather-Forecast-app/assets/114940964/45bc5b76-6bac-4fe7-85db-fcbebdc790e2)
+
+Weather detail Page :
+
+![image](https://github.com/noobcoder-31/Weather-Forecast-app/assets/114940964/de729874-c929-49c6-ab30-7f778feb1660)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
